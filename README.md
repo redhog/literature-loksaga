@@ -1,8 +1,9 @@
-A short story about a train engine. typeset using xmlpoetry.
+A short story in swedish about a train engine.
 
-Download https://github.com/redhog/xmlpoetry and install its dependencies
+En novell om ett loks drömmar.
 
-In the current directory, run $PATH_TO_XMLPOETRY/xmlpoetry/xmlmake
+Ladda ner och installera https://github.com/redhog/xmlpoetry
 
-Language: Swedish
+Kör $PATH_TO_XMLPOETRY/xmlpoetry/xmlmake i den här katalogen.
+
 License: GPL v. 3
